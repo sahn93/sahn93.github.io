@@ -20,7 +20,7 @@ email: ahnsc93@gmail.com
 email_full: mailto:ahnsc93@gmail.com
 linkedin: seokchanahn
 github: scan3
-google_analytics: UA-69300817-1
-
+google_analytics: UA-154197447-1
+ 
 # needed for travis-ci build
 exclude: [vendor]
